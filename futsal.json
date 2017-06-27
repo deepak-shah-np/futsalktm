@@ -3,9 +3,49 @@
 		"name":"Royal Futsal",
 		"address":"Puspa nagar marg, Kathmandu 44600",
 		"phone":["01-4460436"],
-		"lat":"-0.89",
-		"long":"0.78"
+		"lat":"27.692966",
+		"long":"85.330234"
+	},
+	{
+		"name":"Dhanyentari Futsal",
+		"address":"Hadigaun, Dhumbaarahi, Kathmandu",
+		"phone":["01-4009635"],
+		"lat":"27.720193",
+		"long":"85.340677"
+	},
+	{
+		"name":"Hardik Futsal 2",
+		"address":"Dovan, Koteshwor, Kathmandu",
+		"phone":["9861775558"],
+		"lat":"27.678389",
+		"long":"85.335768"
+	},
+	{
+		"name":"Hardik Futsal",
+		"address":"Pulchowk, Lalitpur, Kathmandu",
+		"phone":["9803068023"],
+		"lat":"27.678169",
+		"long":"85.313484"
+	},
+	{
+		"name":"Shantinagar Futsal",
+		"address":"Om Shanti Chowk,Shantinagar,Kathmandu",
+		"phone":["9851188182"],
+		"lat":"27.691988",
+		"long":"85.347818"
+	},
+	{
+		"name":"Shankhamul Futsal",
+		"address":"Shankhamul Marga,Kathmandu",
+		"phone":["01-4782088", "9841567114"],
+		"lat":"27.682714",
+		"long":"85.332205"
+	},
+	{
+		"name":"Shankhamul Futsal",
+		"address":"Shankhamul Marga,Kathmandu",
+		"phone":["01-4782088", "9841567114"],
+		"lat":"27.682714",
+		"long":"85.332205"
 	}
-
-
 ]
