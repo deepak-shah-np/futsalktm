@@ -3,119 +3,119 @@
 		"name":"Royal Futsal",
 		"address":"Puspa nagar marg, Kathmandu 44600",
 		"phone":["01-4460436"],
-		"lat":27.692966,
-		"long":85.330234
+		"latitude":27.692966,
+		"longitude":85.330234
 	},
 	{
 		"name":"Dhanyentari Futsal",
 		"address":"Hadigaun, Dhumbaarahi, Kathmandu",
 		"phone":["01-4009635"],
-		"lat":27.720193,
-		"long":85.340677
+		"latitude":27.720193,
+		"longitude":85.340677
 	},
 	{
 		"name":"Hardik Futsal 2",
 		"address":"Dovan, Koteshwor, Kathmandu",
 		"phone":["9861775558"],
-		"lat":27.678389,
-		"long":85.335768
+		"latitude":27.678389,
+		"longitude":85.335768
 	},
 	{
 		"name":"Hardik Futsal",
 		"address":"Pulchowk, Lalitpur, Kathmandu",
 		"phone":["9803068023"],
-		"lat":27.678169,
-		"long":85.313484
+		"latitude":27.678169,
+		"longitude":85.313484
 	},
 	{
 		"name":"Shantinagar Futsal",
 		"address":"Om Shanti Chowk,Shantinagar,Kathmandu",
 		"phone":["9851188182"],
-		"lat":27.691988,
-		"long":85.347818
+		"latitude":27.691988,
+		"longitude":85.347818
 	},
 	{
 		"name":"Shankhamul Futsal",
 		"address":"Shankhamul Marga,Kathmandu",
 		"phone":["01-4782088", "9841567114"],
-		"lat":27.682714,
-		"long":85.332205
+		"latitude":27.682714,
+		"longitude":85.332205
 	},
 	{
 		"name":"Shankhamul Futsal",
 		"address":"Shankhamul Marga,Kathmandu",
 		"phone":["01-4782088", "9841567114"],
-		"lat":27.682714,
-		"long":85.332205
+		"latitude":27.682714,
+		"longitude":85.332205
 	},
 	{
 		"name":"Grassroots Recreational Centre",
 		"address":"Mandikatar,Kathmandu",
 		"phone":["01-4375276"],
-		"lat":27.734339,
-		"long":85.345327
+		"latitude":27.734339,
+		"longitude":85.345327
 	},
 	{
 		"name":"X-cel Recreational Centre",
 		"address":"Baluwatar,Kathmandu",
 		"phone":["01-4440857"],
-		"lat":27.723640,
-		"long":85.332626
+		"latitude":27.723640,
+		"longitude":85.332626
 	},
 	{
 		"name":"Kathmandu Futsal",
 		"address":"Lalitpur",
 		"phone":["9851137525","9802021223","9803024359"],
-		"lat":27.678286,
-		"long":85.306274
+		"latitude":27.678286,
+		"longitude":85.306274
 	},
 	{
 		"name":"Dhuku Futsal Hub",
 		"address":"Sital Marg, Maharajgunj, Kathmandu",
 		"phone":["01-4435832"],
-		"lat":27.731878,
-		"long":85.335070
+		"latitude":27.731878,
+		"longitude":85.335070
 	},
 	{
 		"name":"BG Brothers Health Club PVT. LTD.",
 		"address":"Bhaktapur,Kathmandu",
 		"phone":["9803604020"],
-		"lat":27.690577,
-		"long":85.368651
+		"latitude":27.690577,
+		"longitude":85.368651
 	},
 	{
 		"name":"White horse futsal center",
 		"address":"Sukedhara Nilopool,Kathmandu",
 		"phone":["014015067","9849961991"],
-		"lat":27.733664,
-		"long":85.350842
+		"latitude":27.733664,
+		"longitude":85.350842
 	},
 	{
 		"name":"Futsal Arena",
 		"address":"chabahil, Kathmandu",
 		"phone":["014433515"],
-		"lat":27.716620,
-		"long":85.313215
+		"latitude":27.716620,
+		"longitude":85.313215
 	},
 	{
 		"name":"Baneshwor Futsal & Recreation Center",
 		"address":"New Baneswor, Kathmandu",
 		"phone":["01-4105028"],
-		"lat":27.695358,
-		"long":85.336309
+		"latitude":27.695358,
+		"longitude":85.336309
 	},
 	{
 		"name":"ARM Futsal Station",
 		"address":"Sanepa, Lalitpur",
 		"phone":["01-5541495"],
-		"lat":27.680333,
-		"long":85.305013
+		"latitude":27.680333,
+		"longitude":85.305013
 	},
 	{
 		"name":"Field Futsal",
 		"address":"Ring Road, Sanepa, Lalitpur",
 		"phone":["01-5528361"],
-		"lat":27.686052,
-		"long":85.302288
+		"latitude":27.686052,
+		"longitude":85.302288
 	}
 ]
